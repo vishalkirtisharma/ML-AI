@@ -11,5 +11,13 @@ The multiple linear regression model predicts outcomes based on multiple input f
 
 The dataset used for this model is `50_Startups.csv`, which contains information about various startups and their respective features.
 
+## Polynomial Regression
+Polynomial regression is a form of regression analysis in which the relationship between the independent variable \(x\) and the dependent variable \(y\) is modeled as an \(n\)th degree polynomial. This model is useful for capturing non-linear relationships in the data.
+
+In this project, polynomial regression is implemented to predict salaries based on position levels. The dataset used for this model is `Position_Salaries.csv`, which contains information about various positions and their corresponding salaries.
+
+Polynomial regression can provide a better fit for the data compared to simple linear regression when the relationship is not linear.
+
 ## Future Additions
+
 This section will be updated with additional models and functionalities as the project expands. Future models may include decision trees and more.
