@@ -18,6 +18,12 @@ In this project, polynomial regression is implemented to predict salaries based 
 
 Polynomial regression can provide a better fit for the data compared to simple linear regression when the relationship is not linear.
 
+## Support Vector Regression
+The Support Vector Regression (SVR) model is implemented to predict salaries based on position levels. It utilizes the dataset `Position_Salaries.csv` and applies the SVR technique to capture the relationship between position levels and salaries.
+
+For detailed implementation and results, please refer to the [Support Vector Regression documentation](04) Support Vector Regression/support_vector_regression_documentation.md).
+
 ## Future Additions
+
 
 This section will be updated with additional models and functionalities as the project expands. Future models may include decision trees and more.
