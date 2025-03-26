@@ -23,7 +23,13 @@ The Support Vector Regression (SVR) model is implemented to predict salaries bas
 
 For detailed implementation and results, please refer to the [Support Vector Regression documentation](04) Support Vector Regression/support_vector_regression_documentation.md).
 
+## Decision Tree Regression
+Decision tree regression is a non-parametric supervised learning method used for regression tasks. It models the relationship between features and target values by creating a tree-like structure. The model splits the data into subsets based on feature values, making predictions based on the average target value in each subset.
+
+The dataset used for this model is `Position_Salaries.csv`, which contains information about various positions and their corresponding salaries.
+
 ## Future Additions
+
 
 
 This section will be updated with additional models and functionalities as the project expands. Future models may include decision trees and more.
