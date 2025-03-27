@@ -28,8 +28,12 @@ Decision tree regression is a non-parametric supervised learning method used for
 
 The dataset used for this model is `Position_Salaries.csv`, which contains information about various positions and their corresponding salaries.
 
+## Random Forest Tree
+Random Forest is an ensemble learning method that combines multiple decision trees to improve predictive accuracy and control overfitting. It operates by constructing a multitude of decision trees during training and outputs the mode of the classes (classification) or mean prediction (regression) of the individual trees.
+
+In this project, the Random Forest Tree model is implemented to predict salaries based on position levels. The dataset used for this model is `Position_Salaries.csv`, which contains information about various positions and their corresponding salaries.
+
+Random Forest is particularly effective for capturing complex relationships in the data and is robust against overfitting compared to individual decision trees.
+
 ## Future Additions
-
-
-
 This section will be updated with additional models and functionalities as the project expands. Future models may include decision trees and more.
